@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "72223625314",
+    "firebase_url": "https://relateddemoapp.firebaseio.com",
+    "project_id": "relateddemoapp",
+    "storage_bucket": "relateddemoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72223625314:android:149b4e2999e029ea5c013b",
+        "android_client_info": {
+          "package_name": "com.relateddemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72223625314-s74nuoo68fcpk0uiflmli39btp2lctch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsXavS3K6oxQxTJ2b137Zs7M32Nl30xjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72223625314-s74nuoo68fcpk0uiflmli39btp2lctch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72223625314:android:009b75b37bc868c25c013b",
+        "android_client_info": {
+          "package_name": "com.watmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72223625314-s74nuoo68fcpk0uiflmli39btp2lctch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsXavS3K6oxQxTJ2b137Zs7M32Nl30xjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72223625314-s74nuoo68fcpk0uiflmli39btp2lctch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
